@@ -1,0 +1,6 @@
+TDDVendingMachine/bin/*
+TDDVendingMachine/obj/*
+TDDVendingMachine.Test/bin/*
+TDDVendingMachine.Test/obj/*
+TestResults/*
+TDDVendingMachine.v12.suo
